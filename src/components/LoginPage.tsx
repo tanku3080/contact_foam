@@ -29,13 +29,13 @@ const LoginPage: React.FC = () => {
       {
           userId: 1,
           userName: 'タンク 太郎',
-          userEmail: 'tanku3080@i.softbank.jp',
+          userEmail: 'tankuman@gmail.com',
           userPassword: 'Tanku3080'
       },
       {
           userId: 2,
           userName: '佐藤 花子',
-          userEmail: 'tanku3080@i.softbank.jp',
+          userEmail: 'sato@gmail.com',
           userPassword: 'test001'
       }
    ];
